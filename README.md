@@ -1,7 +1,7 @@
 # JWEB ADVANCED BUSINESS
 =========
 
-JWEB ADVANCED BUSINESS  is a  Programming langauge   invented  by wilmix jemin  j  at  JDollar(JWEB) P.L  at year  2017.
+JWEB ADVANCED BUSINESS  is a  Programming language   invented  by wilmix jemin  j  at  JDollar(JWEB) P.L  at year  2017.
 
 JWEB ADVANCED BUSINESS  is  focused  on  Advanced  Business  Programming   using   the   Frameworks
 which   is  given  below...  Here   You   had  to  follow   External  Advanced  Business
