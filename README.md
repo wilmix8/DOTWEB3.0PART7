@@ -1,9 +1,9 @@
-# JWEB7.0
+# JWEB ADVANCED BUSINESS
 =========
 
-JWEB7.0   is    JWEB  part7  invented  by wilmix jemin  j  at  JDollarWEB P.L  at year  2017.
+JWEB ADVANCED BUSINESS  is   invented  by wilmix jemin  j  at  JDollar(JWEB) P.L  at year  2017.
 
- JWEB  7.0   is  focused  on  Advanced  Business  Programming   using   the   Frameworks
+JWEB ADVANCED BUSINESS  is  focused  on  Advanced  Business  Programming   using   the   Frameworks
 which   is  given  below...  Here   You   had  to  follow   External  Advanced  Business
 Techniques  with  JSWORD.
 
